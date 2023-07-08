@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently Brushing up DSA and Working on my Problem-solving skills.
 
-- 💬 Ask me about C, C++, Flutter , ML
+- 💬 Ask me about C, C++, Java, Flutter , ML
 
 - 📝 Sometimes, I like doing competitive programming.
 
