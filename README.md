@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1322&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1322" /> </p>
 
-- 🔭 I’m Pre-final year student at IIT Ropar.
+- 🔭 I’m a Final year student at IIT Ropar.
 
-- 🌱 I’m currently Brushing up DSA and Working on my Problem solving skills.
+- 🌱 I’m currently Brushing up DSA and Working on my Problem-solving skills.
 
 - 💬 Ask me about C, C++, CSS, Javascript
 
-- 📝 Sometimes I like doing compeitive programming.
+- 📝 Sometimes, I like doing competitive programming.
 
 - 📫 How to reach me **guptajatin918@gmail.com**
 
@@ -25,9 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jatin-gupta-607925200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-gupta-b25398205" height="30" width="40" /></a>
-<a href="https://instagram.com/jatin1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin1322" height="30" width="40" /></a>
-<!---<a href="https://www.leetcode.com/tangy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tangy21" height="30" width="40" /></a>--->
-<!---<a href="https://auth.geeksforgeeks.org/user/tanuj21goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatin1322" height="30" width="40" /></a>--->
+<a href="https://instagram.com/jatin1322__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin1322" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/guptajatin918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tangy21" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/guptajatin918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatin1322" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
